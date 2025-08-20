@@ -4,8 +4,8 @@
 I'm a **human-centered engineer** and **aspiring biotech founder** passionate about leveraging **technology, data, and product design** to drive real-world impact. My experience spans across **software development, AI-driven data analysis, and synthetic biology innovation**.  
 
 ## 🔬 What I’m Working On  
-- **iGEM@ND Founder** – Leading a student-driven initiative to compete in the **world’s largest synthetic biology competition**.  
-- **Sex Education App Development** – Designing an interactive **gamified learning platform** inspired by **Duolingo** to provide accessible sex education for students in China.  
+- **iGEM@ND Founder** – Leading a student-driven initiative to compete in the **world’s largest synthetic biology competition**.
+- **Pruun** - Build Frontend & Backend for SaaS Landscaping Marketplace & CRM. 
 - **Flask Web App for Data Visualization** – Built a **Python-based backend** that processes **CSV and PSSESSION files**, generates **Plotly visualizations**, and allows user-selected reruns for optimized results.  
 
 ## 📚 What I’m Learning  
@@ -19,12 +19,10 @@ I'm a **human-centered engineer** and **aspiring biotech founder** passionate ab
 - **Product Management & UX Design** – Bridging technology with user-centric problem-solving.  
 
 ## 📫 How to Reach Me  
+- **Website:** [Swindar's portofolio](https://swindar.com/)
 - **LinkedIn:** [Swindar Zhou](https://www.linkedin.com/in/swindar-zhou/)  
 - **GitHub:** [@swindar-zhou](https://github.com/swindar-zhou)  
-- **Email:** kzhou3@nd.edu  
-
-## 😄 Fun Fact  
-I enjoy **exploring the intersection of tech and biology**, and I’m always looking for ways to **turn research into impactful solutions**!  
+- **Email:** kzhou3@nd.edu 
 
 ---
 
