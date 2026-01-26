@@ -1,9 +1,28 @@
 # 👋 Hi, I'm Swindar Zhou
 
-## 🚀 About Me  
-Software engineer and AI engineer. Passionate about using technology, data, and product design to drive real-world impact.
+## About Me  
+Software engineer with experience building full-stack systems and AI-powered products.  
+I enjoy turning complex ideas into reliable, human-centered tools—especially at the intersection of engineering, data, and product design.
 
-## 💻 Skills
+---
+
+## Selected Project Highlights
+
+**Regex Engine from Scratch (Python)**  
+Built a custom regular expression engine without using built-in regex libraries, including parsing, matching, capturing groups, and backreferences.  
+*Tech:* Python, formal languages, parsing, state machines
+
+**A-PACE: Real-Time Biosensor Analytics Toolkit**  
+Developed a web-based signal processing platform for electrochemical biosensor data, reducing manual labeling from hours to seconds.  
+*Tech:* Python, ML pipelines, FastAPI, interactive visualization
+
+**StylePilot.ai – AI Styling Copilot**  
+Designed system architecture for an AI wardrobe digitization and outfit recommendation product, combining vision tagging with user preference modeling.  
+*Tech:* AI systems, full-stack development, product design
+
+---
+
+## Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,16 +42,19 @@ Software engineer and AI engineer. Passionate about using technology, data, and 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 
-### Cloud/DevOps
+### Cloud / DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Competencies
-RAG pipelines • LLM evaluation & Monitoring • Embeddings • Reranking • Web endpoints & service architecture • AI inference pipelines • Caching strategies • Full-stack development • CRM systems
+RAG pipelines • LLM evaluation & monitoring • Embeddings • Reranking • Service & API architecture •  
+AI inference pipelines • Caching strategies • Full-stack development • CRM systems
 
-## 📫 Let's connect
+---
+
+## Let's connect
 - **LinkedIn:** [Swindar Zhou](https://www.linkedin.com/in/swindar-zhou/)  
 - **GitHub:** [@swindar-zhou](https://github.com/swindar-zhou)  
 - **Website:** [swindar.com](https://swindar.com/)
