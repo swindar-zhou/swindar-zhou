@@ -23,6 +23,11 @@ Designed system architecture for an AI wardrobe digitization and outfit recommen
 → [![Website](https://img.shields.io/badge/Website-StylePilot.ai-FF6B6B?style=flat&logo=globe&logoColor=white)](https://stylepilot.ai/) [Website](https://stylepilot.ai/)  
 *Tech:* AI systems, full-stack development, product design
 
+**Pruun – SaaS Landscaping Marketplace & CRM**  
+Built and shipped a full-stack B2B marketplace and CRM supporting 37 properties and 325 jobs. Implemented end-to-end RFQ to booking flows, increasing conversion by 20%, and enabled real-time updates with Socket.IO.  
+→ [![Website](https://img.shields.io/badge/Website-Pruun.app-00C853?style=flat&logo=globe&logoColor=white)](https://pruun.app/) [Website](https://pruun.app/)  
+*Tech:* React, Node.js (Fastify), PostgreSQL, Redis, Socket.IO, SendGrid, Twilio, CRM systems
+
 ---
 
 ## Skills
