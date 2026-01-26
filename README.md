@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Swindar Zhou
 
 ## About Me  
-Software engineer with experience building full-stack systems and AI-powered products.  
-I enjoy turning complex ideas into reliable, human-centered tools—especially at the intersection of engineering, data, and product design.
+Software engineer with experience building full-stack systems and AI-powered products. I enjoy turning complex ideas into reliable, human-centered at the intersection of engineering, data, and product design.
 
 ---
 
@@ -20,7 +19,7 @@ Designed system architecture for an AI wardrobe digitization and outfit recommen
 
 **Pruun – SaaS Landscaping Marketplace & CRM**  
 Built and shipped a full-stack B2B marketplace and CRM supporting 37 properties and 325 jobs. Implemented end-to-end RFQ to booking flows, increasing conversion by 20%, and enabled real-time updates with Socket.IO.  
-→ [![Website](https://img.shields.io/badge/Website-Pruun.app-00C853?style=flat&logo=globe&logoColor=white)](https://pruun.app/) [Website](https://pruun.app/)  
+→ [![Website](https://img.shields.io/badge/Website-Pruun.net-00C853?style=flat&logo=globe&logoColor=white)](https://pruun.app/) [Website](https://pruun.app/)  
 *Tech:* React, Node.js (Fastify), PostgreSQL, Redis, Socket.IO, SendGrid, Twilio, CRM systems
 
 **Class Project: Regex Engine from Scratch**  
