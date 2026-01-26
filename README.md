@@ -13,6 +13,11 @@ Developed a web-based signal processing platform for electrochemical biosensor d
 → [![Paper](https://img.shields.io/badge/Paper-bioRxiv-00A3E0?style=flat&logo=read-the-docs&logoColor=white)](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1) [Paper](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1)  
 *Tech:* Python, ML pipelines, FastAPI, interactive scientific visualization
 
+**NLP Project: Regex Engine from Scratch (Python)**  
+Built a custom regular expression engine without using built-in regex libraries, including parsing, matching, capturing groups, and backreferences.  
+→ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swindar-zhou/regex-engine) [Repo](https://github.com/swindar-zhou/regex-engine)  
+*Tech:* Python, formal languages, parsing, state machines
+
 **StylePilot.ai – AI Styling Copilot**  
 Designed system architecture for an AI wardrobe digitization and outfit recommendation product, combining vision tagging with user preference modeling.  
 → [![Website](https://img.shields.io/badge/Website-StylePilot.ai-FF6B6B?style=flat&logo=globe&logoColor=white)](https://stylepilot.ai/) [Website](https://stylepilot.ai/)  
@@ -22,11 +27,6 @@ Designed system architecture for an AI wardrobe digitization and outfit recommen
 Built and shipped a full-stack B2B marketplace and CRM supporting 37 properties and 325 jobs. Implemented end-to-end RFQ to booking flows, increasing conversion by 20%, and enabled real-time updates with Socket.IO.  
 → [![Website](https://img.shields.io/badge/Website-Pruun.net-00C853?style=flat&logo=globe&logoColor=white)](https://pruun.app/) [Website](https://pruun.app/)  
 *Tech:* React, Node.js (Fastify), PostgreSQL, Redis, Socket.IO, SendGrid, Twilio, CRM systems
-
-**Class Project: Regex Engine from Scratch**  
-Built a custom regular expression engine without using built-in regex libraries, including parsing, matching, capturing groups, and backreferences.  
-→ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swindar-zhou/regex-engine) [Repo](https://github.com/swindar-zhou/regex-engine)  
-*Tech:* Python, formal languages, parsing, state machines
 
 ---
 
