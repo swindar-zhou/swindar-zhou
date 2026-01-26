@@ -1,29 +1,26 @@
-# 👋 Hi, I’m Swindar Zhou
+# 👋 Hi, I'm Swindar Zhou
 
 ## 🚀 About Me  
-I'm a **human-centered engineer** and **aspiring biotech founder** passionate about leveraging **technology, data, and product design** to drive real-world impact. My experience spans across **software development, AI-driven data analysis, and synthetic biology innovation**.  
+Human-centered engineer and aspiring biotech founder. Passionate about using technology, data, and product design to drive real-world impact.
 
-## 🔬 What I’m Working On  
-- **iGEM@ND Founder** – Leading a student-driven initiative to compete in the **world’s largest synthetic biology competition**.
-- **Pruun** - Build Frontend & Backend for SaaS Landscaping Marketplace & CRM. 
-- **Flask Web App for Data Visualization** – Built a **Python-based backend** that processes **CSV and PSSESSION files**, generates **Plotly visualizations**, and allows user-selected reruns for optimized results.  
+## 💻 Skills
 
-## 📚 What I’m Learning  
-- **Large Language Model (LLM) Training & AI Optimization**  
-- **Cloud Computing with AWS (EC2, Lambda, S3, RDS, DynamoDB)**  
-- **Technical Product Management & Scalable System Design**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🤝 Looking to Collaborate On  
-- **AI & Data-Driven Projects** – NLP, machine learning, and big data visualization.  
-- **Biotech & Healthcare Innovation** – Synthetic biology, bioinformatics, and med-tech solutions.  
-- **Product Management & UX Design** – Bridging technology with user-centric problem-solving.  
+## 📚 What I'm Learning  
+- LLM Training & AI Optimization
+- AWS Cloud Computing (EC2, Lambda, S3, RDS, DynamoDB)
+- Technical Product Management & System Design
 
 ## 📫 How to Reach Me  
-- **Website:** [Swindar's portofolio](https://swindar.com/)
 - **LinkedIn:** [Swindar Zhou](https://www.linkedin.com/in/swindar-zhou/)  
 - **GitHub:** [@swindar-zhou](https://github.com/swindar-zhou)  
-- **Email:** kzhou3@nd.edu 
-
----
-
-🔹 *Always open to new ideas, collaborations, and learning opportunities—let’s connect!* 🚀
+- **Website:** [swindar.com](https://swindar.com/)
