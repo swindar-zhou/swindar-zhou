@@ -6,19 +6,19 @@ I enjoy turning complex ideas into reliable, human-centered tools—especially a
 
 ---
 
-##Selected Project Highlights
+## Selected Project Highlights
 
-**🔍 Regex Engine from Scratch (Python)**  
+**Regex Engine from Scratch (Python)**  
 Built a custom regular expression engine without using built-in regex libraries, including parsing, matching, capturing groups, and backreferences.  
 → [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swindar-zhou/regex-engine) [Repo](https://github.com/swindar-zhou/regex-engine)  
 *Tech:* Python, formal languages, parsing, state machines
 
-**🧪 A-PACE: Real-Time Biosensor Analytics Toolkit**  
+**A-PACE: Real-Time Biosensor Analytics Toolkit**  
 Developed a web-based signal processing platform for electrochemical biosensor data, reducing manual labeling from hours to seconds; co-authored a bioRxiv preprint.  
 → [![Paper](https://img.shields.io/badge/Paper-bioRxiv-00A3E0?style=flat&logo=read-the-docs&logoColor=white)](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1) [Paper](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1)  
 *Tech:* Python, ML pipelines, FastAPI, interactive scientific visualization
 
-**👗 StylePilot.ai – AI Styling Copilot**  
+**StylePilot.ai – AI Styling Copilot**  
 Designed system architecture for an AI wardrobe digitization and outfit recommendation product, combining vision tagging with user preference modeling.  
 → [![Website](https://img.shields.io/badge/Website-StylePilot.ai-FF6B6B?style=flat&logo=globe&logoColor=white)](https://stylepilot.ai/) [Website](https://stylepilot.ai/)  
 *Tech:* AI systems, full-stack development, product design
