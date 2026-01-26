@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Swindar Zhou
-
 ## About Me  
 Software engineer with experience building full-stack systems and AI-powered products. 
 I enjoy turning complex ideas into reliable, human-centered products at the intersection of engineering, data, and product design.
