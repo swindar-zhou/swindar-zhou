@@ -1,5 +1,5 @@
 ## About Me  
-Software engineer with experience building full-stack systems and AI-powered products. 
+Hi! I am Swindar, a software engineer with experience building full-stack systems and AI-powered products. 
 I enjoy turning complex ideas into reliable, human-centered products at the intersection of engineering, data, and product design.
 
 ---
