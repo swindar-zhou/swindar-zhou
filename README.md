@@ -63,4 +63,4 @@ AI inference pipelines • Caching strategies • Full-stack development • CRM
 ## Let's connect
 - **LinkedIn:** [Swindar Zhou](https://www.linkedin.com/in/swindar-zhou/)  
 - **GitHub:** [@swindar-zhou](https://github.com/swindar-zhou)  
-- **Website:** [swindar.com](https://swindar.com/)
+- **Website:** [swindar.com](https://swindarzhou.com/)
