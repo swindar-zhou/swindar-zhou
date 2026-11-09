@@ -1,6 +1,5 @@
 <h3 align="center">Hi, I'm Swindar 👋</h3>
 <p align="center">building in healthcare ai @stanford</p>
-<p align="center">janitor at us hospitals</p>
 <p align="center">traveler in parallel universe</p>
 
 <br>
