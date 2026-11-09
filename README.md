@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Swindar 👋</h3>
-<p align="center">Software engineer · AI products · Stanford</p>
+<p align="center">Software engineer · AI products · Healthcare AI</p>
 
 <br>
 
