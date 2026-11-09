@@ -11,7 +11,6 @@
 
 ### Projects
 
-- ♥︎ **[Alora](https://www.call-alora.com)**: AI voice agents that call transfer centers and keep care teams updated
 - ♥︎ **[A-PACE](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1)**: real-time biosensor signal analysis, cutting manual labeling from hours to seconds (bioRxiv preprint)
 - ♥︎ **[Regex engine](https://github.com/swindar-zhou/regex-engine)**: a regular expression engine from scratch in Python, with capture groups and backreferences
 - ♥︎ **[StylePilot.ai](https://stylepilot.ai/)**: AI wardrobe digitization and outfit recommendations
