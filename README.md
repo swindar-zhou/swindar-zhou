@@ -10,10 +10,10 @@
 
 ### Projects
 
-- ♥︎ **[A-PACE](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1)**: real-time biosensor signal analysis, cutting manual labeling from hours to seconds (bioRxiv preprint)
-- ♥︎ **[Regex engine](https://github.com/swindar-zhou/regex-engine)**: a regular expression engine from scratch in Python, with capture groups and backreferences
-- ♥︎ **[StylePilot.ai](https://stylepilot.ai/)**: AI wardrobe digitization and outfit recommendations
-- ♥︎ **[Pruun](https://pruun.app/)**: B2B landscaping marketplace and CRM, 37 properties and 325 jobs booked
+♥︎ **[A-PACE](https://www.biorxiv.org/content/10.1101/2025.09.28.678418v1)**: real-time biosensor signal analysis, cutting manual labeling from hours to seconds (bioRxiv preprint)
+♥︎ **[Regex engine](https://github.com/swindar-zhou/regex-engine)**: a regular expression engine from scratch in Python, with capture groups and backreferences
+♥︎ **[StylePilot.ai](https://stylepilot.ai/)**: AI wardrobe digitization and outfit recommendations
+♥︎ **[Pruun](https://pruun.app/)**: B2B landscaping marketplace and CRM, 37 properties and 325 jobs booked
 
 ### Skills
 
