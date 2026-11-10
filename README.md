@@ -1,7 +1,5 @@
 Hi, I'm Swindar 👋
 
-<br>
-
 ### About me
 
 - I build full-stack systems and AI-powered products.
